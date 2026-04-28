@@ -123,6 +123,36 @@ EXCLUDED_KEYWORDS = {
     "pickleball",
     "esports",
     "e-sports",
+    # Sports — additions
+    "fantasy points",
+    "fantasy football", 
+    "fantasy basketball",
+    "player stats", 
+    "player points", 
+    "player rebounds", 
+    "player assists",
+    "nba props", "darts",
+    "pga tour", 
+    "ryder cup", 
+    "wimbledon",
+    "french open",
+    "australian open",
+    "wsop",
+    "poker championship",
+    # Weather
+    "hurricane",
+    "tornado",
+    "earthquake", 
+    "rainfall",
+    "snowfall",
+    "temperature record",
+    "flood",
+    # Crypto — additions
+    "microstrategy", 
+    "mstr",
+    # Proven bad from analysis
+    "trump nuclear",
+    "netanyahu", 
 }
 
 EXCLUDED_TITLE_PHRASES = {
