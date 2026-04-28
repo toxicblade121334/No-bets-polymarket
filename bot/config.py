@@ -123,10 +123,10 @@ class NothingHappensConfig:
     position_sync_interval_sec: int = 60
     order_dispatch_interval_sec: int = 60
     cash_pct_per_trade: float = 0.02
-    min_trade_amount: float = 5.0
-    fixed_trade_amount: float = 0.0
+    min_trade_amount: float = 1.0
+    fixed_trade_amount: float = 1
     max_entry_price: float = 0.65
-    allowed_slippage: float = 0.30
+    allowed_slippage: float = 0.05
     request_concurrency: int = 4
     buy_retry_count: int = 3
     buy_retry_base_delay_sec: float = 1.0
